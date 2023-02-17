@@ -18,11 +18,11 @@
 <p align="center">
   
 <a href="https://github.com/yashu1wwww/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=tyftvyhg56ftvgyhg&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/tyftvyhg56ftvgyhg/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
@@ -105,7 +105,7 @@ Connect With Me:
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
 
-[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashu1wwww&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/yashu1wwww/github-readme-activity-graph)
+[![Yashu_Krish's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tyftvyhg56ftvgyhg&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/tyftvyhg56ftvgyhg/github-readme-activity-graph)
 
   
  ### ✍️ Random Dev Quotes
