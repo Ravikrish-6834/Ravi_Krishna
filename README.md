@@ -18,12 +18,12 @@
 
 
 
-<a href="https://github.com/yashu1wwww/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=yashu1wwww&style=for-the-badge">
+<a href="https://github.com/Ravikrish-6834/github-profile-views-counter">
+<img src="https://komarev.com/ghpvc/?username=Ravikrish-6834&style=for-the-badge">
 </a>
 
 [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/yashu1wwww/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/Ravikrish-6834/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174)
 
@@ -41,27 +41,9 @@
 
 - 😄 Pronouns: He/His
 
-
-- 💻 𝙄 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙙 𝘼 𝙇𝙞𝙫𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 𝙁𝙤𝙧 𝙏𝙝𝙚 𝙉𝙪𝙢𝙗𝙚𝙧 𝙊𝙛 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙑𝙞𝙨𝙞𝙩𝙨 &  𝙁𝙤𝙡𝙡𝙤𝙬𝙚𝙧𝙨 𝘾𝙤𝙪𝙣𝙩 𝙊𝙣 𝙂𝙞𝙩𝙃𝙪𝙗.
-
-  https://shorturl.at/jCPX3
-
-
-- 💻 𝐌𝐚𝐝𝐞 𝘽𝙤𝙤𝙠𝙈𝙮𝙎𝙝𝙤𝙬 𝘼𝙪𝙩𝙤 𝙍𝙖𝙩𝙞𝙣𝙜𝙨 𝐔𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐖𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦.
-
-- 💻 𝐌𝐚𝐝𝐞 100 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝙇𝙞𝙠𝙚𝙨 𝙐𝙨𝙞𝙣𝙜 𝙎𝙚𝙡𝙚𝙣𝙞𝙪𝙢 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
-
-- 💻 𝐌𝐚𝐝𝐞 500+ 𝙉𝙤𝙣 𝙎𝙩𝙤𝙥 𝙔𝙤𝙪𝙏𝙪𝙗𝙚 𝘼𝙪𝙩𝙤 𝘾𝙤𝙢𝙢𝙚𝙣𝙩𝙨 𝙐𝙨𝙞𝙣𝙜 10 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙄𝙣 𝙇𝙤𝙘𝙖𝙡𝙝𝙤𝙨𝙩.
-
-- 💻 𝙈𝙤𝙨𝙩 𝙇𝙞𝙣𝙚𝙙 𝘾𝙤𝙙𝙚 𝙁𝙤𝙧 𝘼 𝙎𝙞𝙣𝙜𝙡𝙚 𝙎𝙘𝙧𝙞𝙥𝙩 𝙄𝙣 𝙂𝙞𝙩𝙃𝙪𝙗 .
-
-- 💻 𝙈𝙮 𝙖𝙘𝙘𝙤𝙪𝙣𝙩 𝙞𝙨 𝙖𝙢𝙤𝙣𝙜 𝙩𝙝𝙚 𝙩𝙤𝙥 10 𝙢𝙤𝙨𝙩 𝙫𝙞𝙚𝙬𝙚𝙙 𝙂𝙞𝙩𝙃𝙪𝙗 𝙥𝙧𝙤𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙩𝙝𝙚 𝙆𝙖𝙧𝙣𝙖𝙩𝙖𝙠𝙖
-
 - 💻 AWS Certified Cloud Practitioner✔️
 
-- 🌱 I am currently learning more about front-end development.
-
-- 💁‍♂️ I’m looking for help with bots.
+- 🌱 I am currently learning more about java.
 
 - 💬 If you have any doubts about my projects, feel free to ask me.
 
@@ -72,20 +54,13 @@ Connect With Me:
 </h3>
 <p align="center" style='margin: 16px 4px 8px;'>
      </a>
-    <a href="mailto:yashwanth6675@gmail.com" target="blank" rel="noreferrer">
+    <a href="mailto:ravikrishna2517@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:uapathrabe@gmail.com" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-    <a href="https://twitter.com/Learn_earns123" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="https://twitter.com/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-     </a>
     <a href="https://www.linkedin.com/in/yashawanth-r-750b7918b/" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://linkedin.com/in/utkarshpathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-   <a href="https://instagram.com/work_it_lit?igshid=Yzg5MTU1MDY=" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
-    </a>
-   <a href="https://t.me/yashu6675" target="blank" rel="noreferrer">
-        <img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="https://instagram.com/utkarsh_pathrabe" height="40" width="40" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
+ 
     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
     
